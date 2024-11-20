@@ -12,6 +12,8 @@ I am engrossed in mastering DSA and enhancing my skills in full-stack developmen
 🔍 **Seeking:**  
 I am eager to collaborate on innovative projects, contribute to open-source initiatives, and connect with fellow technology enthusiasts.
 
+<a href="https://www.buymeacoffee.com/satendra03"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a Coffee&emoji=&slug=satendra03&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
+<br/>
 [![](https://visitcount.itsvg.in/api?id=satendra03&icon=6&color=0)](https://visitcount.itsvg.in)
 
 
