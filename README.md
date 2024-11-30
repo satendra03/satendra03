@@ -38,7 +38,7 @@ I am eager to collaborate on innovative projects, contribute to open-source init
 ![](https://github-profile-trophy.vercel.app/?username=satendra03&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 👨‍💻 LeetCode
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=satendra_03&theme=github-drak" alt="LeetCode Badges"/>
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=satendra_03&theme=dark&border=border&animated=true" alt="LeetCode Badges"/>
 
 ## Others 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/satendra_03/)
@@ -50,7 +50,5 @@ I am eager to collaborate on innovative projects, contribute to open-source init
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
