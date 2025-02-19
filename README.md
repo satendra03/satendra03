@@ -3,10 +3,10 @@
          height="45"
          width="45" /></h1> </p>
 
+[![](https://visitcount.itsvg.in/api?id=satendra03&icon=6&color=0)](https://visitcount.itsvg.in)
+
 <p align="center"><a href="https://www.buymeacoffee.com/satendra03"><img height="45" src="https://img.buymeacoffee.com/button-api/?text=Buy me a Coffee&emoji=&slug=satendra03&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a> 
 <br />
-
-[![](https://visitcount.itsvg.in/api?id=satendra03&icon=6&color=0)](https://visitcount.itsvg.in)
 
 </p>
 <p align="center">
