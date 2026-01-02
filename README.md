@@ -40,7 +40,7 @@
   <p align="center">Backend</p>
 
 <div align="center">
-         <img src="https://skillicons.dev/icons?i=nodejs,express,redis,graphql,nestjs,postman&perline=3" />
+         <img src="https://skillicons.dev/icons?i=nodejs,express,redis,graphql,nestjs&perline=3" />
 </div>
     </td>
   </tr>
@@ -69,7 +69,7 @@
     <td>
 <p align="center">Tools and Tech</p>
 <div align="center">
-             <img src="https://skillicons.dev/icons?i=git,github,vscode,vite&perline=3" />
+             <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=3" />
 
   </div></td>
 
