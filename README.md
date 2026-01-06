@@ -44,7 +44,8 @@
         <td>
             <p align="center">Backend</p>
             <div align="center">
-                <img src="https://skillicons.dev/icons?i=nodejs,express,redis,graphql,nestjs&perline=3" />
+                <img src="https://skillicons.dev/icons?i=nodejs,express&perline=3" />
+                <!-- <img src="https://skillicons.dev/icons?i=nodejs,express,redis,graphql,nestjs&perline=3" /> -->
             </div>
         </td>
     </tr>
@@ -58,7 +59,8 @@
         <td>
             <p align="center">Database</p>
             <div align="center">
-                <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,supabase,mongodb&perline=3" />
+                <img src="https://skillicons.dev/icons?i=postgres,firebase,mongodb&perline=3" />
+                <!-- <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,supabase,mongodb&perline=3" /> -->
             </div>
         </td>
     </tr>
