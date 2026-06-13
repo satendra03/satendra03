@@ -38,13 +38,13 @@
         <td>
             <p align="center">Frontend</p>
             <div align="center">
-                <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,materialui&perline=3" />
+                <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,react,nextjs,angular,materialui&perline=3" />
             </div>
         </td>
         <td>
             <p align="center">Backend</p>
             <div align="center">
-                <img src="https://skillicons.dev/icons?i=nodejs,express&perline=3" />
+                <img src="https://skillicons.dev/icons?i=nodejs,express,spring&perline=3" />
                 <!-- <img src="https://skillicons.dev/icons?i=nodejs,express,redis,graphql,nestjs&perline=3" /> -->
             </div>
         </td>
@@ -53,7 +53,7 @@
         <td>
             <p align="center">Programming Languages</p>
             <div align="center">
-                <img src="https://skillicons.dev/icons?i=c,cpp,js,ts&perline=3" />
+                <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts&perline=3" />
             </div>
         </td>
         <td>
