@@ -19,8 +19,8 @@
 <p align="center">
     <strong>Full Stack Developer.</strong><br>
 I'm a Java & Full Stack Developer currently working at Infosys.<br>
-My work involves building backend services and microservices using Java, Spring Boot, and Spring Cloud, along with frontend development using Angular.<br>
-I also work with Spring AI and enjoy exploring how AI can be integrated into applications. Outside of work, I build personal projects and practice problem-solving.<br>
+Building backend services and microservices using Java, Spring Boot, and Spring Cloud.<br>
+Outside of work, I build personal projects and practice problem-solving.<br>
     I also have <a href="https://github.com/satendra03/LeetCode">repository</a> on Problem Solving with problems solved,
     on LeetCode, over different domains of competitive coding mostly in C++.
 </p>
